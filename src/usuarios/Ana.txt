@@ -1,0 +1,25 @@
+1,Ana,Arte,Crear un arte bonito,Alta,Completada
+2,Ana,Cena,preparar una comida ligera,Baja,En Progreso
+3,Ana,Compra online,realizar pedidos ,Baja,Por Hacer
+4,Ana,Leer o ver,informarme bien de la situación,Media,Completada
+5,Ana,Hacer limpieza,limpiar las ventanas de casa,Alta,Completada
+6,Ana,Pgar ,luz y agua,Alta,Por Hacer
+7,Ana,Escuchar música,disfrutar de la musica clasica,Baja,Por Hacer
+8,Ana,Organizar,los correos,Baja,Completada
+9,Ana,Ver una serie,divertida y ver en telegram,Media,Completada
+10,Ana,Cita,cita medica para chequeos,Alta,Por Hacer
+11,Ana,Taller,Documentar el proyecto,Media,Completada
+12,Ana,Jugar,ajedrez 2 partidas,Alta,En Progreso
+13,Ana,Manualidad,una manualidad para el jardin,Media,En Progreso
+14,Ana,Ejercios,hacer yoga en casa,Media,En Progreso
+15,Ana,Elementos,programar un juego ,Media,Por Hacer
+16,Ana,Calculo y álgebra,ir a esas clases de auxiliartura,Alta,En Progreso
+17,Ana,Contabilidad,examen mañana ,Alta,En Progreso
+18,Ana,Paseo,ir de paseo con el perro,Baja,Por Hacer
+19,Ana,Visitar,a mamá y tias,Baja,Completada
+20,Ana,Física,hacer ejecicio de la gravitatoria ,Media,Completada
+21,Ana,Química,experimento nuevo con material solo sulfuro,Alta,Completada
+22,Ana,20/12/2024,lo ajustable ,Media,Completada
+23,Ana,,sqw,Baja,En Progreso
+24,Ana,,hop,Media,Completada
+25,Ana,,dwsfw,Media,Completada
